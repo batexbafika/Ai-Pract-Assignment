@@ -1,4 +1,4 @@
-This is the Data structure for our first practical assignment in AI. In the Game.py file, the following have been done.
+This is the Data structure for our first practical assignment in AI. In the Game.py file, the following has been done.
 
 class Node:
 In this node, we have created the template for all our game nodes for both the root node and also the child nodes. 
