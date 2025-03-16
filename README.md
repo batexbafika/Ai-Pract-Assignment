@@ -8,7 +8,7 @@ This is for the Game state class which will show all the parameters characterisi
 and the players turn.
 
 class GameTree:
-The gameTree which actually root nodes and child nodes where every node has the game state at a given moment in the game course.
+The gameTree which is actually root nodes and child nodes where every node has the game state at a given moment in the game course.
 
 class player:
 This step will now create the player class which will track every player 
