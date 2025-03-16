@@ -1,7 +1,7 @@
 This is the Data structure for our first practical assignment in AI. In the Game.py file, the following have been done.
 
 class Node:
-In this node, we have created the teplate for all our game nodes for both the root node and also the child nodes. 
+In this node, we have created the template for all our game nodes for both the root node and also the child nodes. 
 
 class Game_state:
 This is for the Game state class which will show all the parameters characterising the game state
