@@ -21,3 +21,10 @@ We now try to define moves according to our game rules, what player moves are va
 Main function:
 Here we tested the game tree with a divition by either 2 or 3 to see if all our classes are well defined and also if the 
 game tree is successfully generated as expected.
+
+In summary we have the following classes:
+-Node
+-Game_state
+-Game_Tree
+-Player
+-Moves
